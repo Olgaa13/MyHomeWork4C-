@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olgaa\\Desktop\\семинар4\\sem4\\sem4.csproj": {}
+    "C:\\Users\\olgaa\\Desktop\\C#задачи\\семинар4\\sem4\\sem4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olgaa\\Desktop\\семинар4\\sem4\\sem4.csproj": {
+    "C:\\Users\\olgaa\\Desktop\\C#задачи\\семинар4\\sem4\\sem4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olgaa\\Desktop\\семинар4\\sem4\\sem4.csproj",
+        "projectUniqueName": "C:\\Users\\olgaa\\Desktop\\C#задачи\\семинар4\\sem4\\sem4.csproj",
         "projectName": "sem4",
-        "projectPath": "C:\\Users\\olgaa\\Desktop\\семинар4\\sem4\\sem4.csproj",
+        "projectPath": "C:\\Users\\olgaa\\Desktop\\C#задачи\\семинар4\\sem4\\sem4.csproj",
         "packagesPath": "C:\\Users\\olgaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olgaa\\Desktop\\семинар4\\sem4\\obj\\",
+        "outputPath": "C:\\Users\\olgaa\\Desktop\\C#задачи\\семинар4\\sem4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olgaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

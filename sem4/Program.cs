@@ -98,14 +98,15 @@ void Task29()
             else
                 Console.Write(arr[i]);
         Console.WriteLine(" ]");
-    }
-    printArray(fillArray());
+    } 
+    int[] fillArr = fillArray();
+    printArray(fillArr);
     Console.WriteLine("После сортировки: ");
-    printArray(Sorter(fillArray()));
+    printArray(Sorter(fillArr));
 }
+
+
 
 // Task25();
 // Task27();
-// Task29();
-
-
+Task29();
